@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '[PFMTips_main] - ...\PFMTips\src\main\java\com\sberbank\pfm\tips\app\to\rubbles\params\DateParam.java'" />
+    <option name="defaultScopeName" value="File '[PFMTips_main] - ...\PFMTips\src\main\java\com\sberbank\pfm\tips\app\to\rubbles\params\DateParam.java'" />
+    <option name="SEARCH_SCOPE" value="File '[PFMTips_main] - ...\PFMTips\src\main\java\com\sberbank\pfm\tips\app\to\rubbles\params\DateParam.java'" />
     <option name="FILE_MASK" value="*.md" />
     <recentFileMasks>
       <mask>*.properties</mask>
