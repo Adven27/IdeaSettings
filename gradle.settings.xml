@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="gradleVmOptions" value="-DJAVA5_HOME=E:\soft\pack\jdk -Xms1024m -Xmx2048m -XX:MaxPermSize=512m  -Dfile.encoding=UTF-8" />
+    <option name="gradleVmOptions" value="-DJAVA5_HOME=E:\soft\pack\jdk -Xms1024m -Xmx2048m -XX:MaxPermSize=512m  -Dfile.encoding=UTF-8 -DLIBERTY_HOME=E:\soft\pack\wlp" />
   </component>
 </application>
