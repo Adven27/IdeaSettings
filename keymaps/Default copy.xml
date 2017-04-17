@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ExternalSystem_ERIB_PFMf7a80258erib_pfm954ce572libertyStop">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="ExternalSystem_ERIB_PFMf7a80258erib_pfm954ce572smokeTestLocal">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+</keymap>
