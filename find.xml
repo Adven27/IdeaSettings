@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="File '[PFMTips_main] - ...\PFMTips\src\main\java\com\sberbank\pfm\tips\app\to\rubbles\params\DateParam.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[PFMTips_main] - ...\PFMTips\src\main\java\com\sberbank\pfm\tips\app\to\rubbles\params\DateParam.java'" />
+    <option name="FILE_MASK" value="*.md" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
