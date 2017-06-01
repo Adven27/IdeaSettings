@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[PFMTipsScheduler_test] - ...\PFMTipsScheduler\src\test\java\specs\schedulers\Schedulers.java'" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +19,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.md</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
