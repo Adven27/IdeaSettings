@@ -6,8 +6,12 @@
           <option name="url" value="https://sbt-toropanov-na@sbtatlas.sigma.sbrf.ru/stashdbo/scm/erib/erib_pfm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Adven27/Exam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Work\PFM\IDEA" />
+    <option name="cloneParentDir" value="E:\Work\IDEA" />
   </component>
 </application>
