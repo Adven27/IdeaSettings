@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[PFMTipsScheduler_test] - ...\PFMTipsScheduler\src\test\java\specs\schedulers\Schedulers.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,8 +19,8 @@
       <mask>*.xml</mask>
       <mask>*.sqll</mask>
       <mask>*.md</mask>
-      <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
