@@ -5,6 +5,7 @@
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="bash" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="plugin" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
