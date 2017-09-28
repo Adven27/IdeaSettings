@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="cmd" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="start bzt load_test.yml" />
+      <option name="WORKING_DIRECTORY" value="E:/Work/PFM/IDEA/tips/Tips/src/test/resources/load" />
+    </exec>
+  </tool>
+</toolSet>
