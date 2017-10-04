@@ -22,6 +22,10 @@
           <option name="url" value="https://sbt-toropanov-na@sbtatlas.sigma.sbrf.ru/stash/scm/pfm/jenkins-pipeline-shared-steps.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sbt-toropanov-na@sbtatlas.sigma.sbrf.ru/stashdbo/scm/erib/smart_tips_aggregator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Work\IDEA" />
