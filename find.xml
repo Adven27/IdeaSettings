@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '[PFMTipsScheduler_test] - ...\PFMTipsScheduler\src\test\java\specs\schedulers\Schedulers.java'" />
     <option name="defaultScopeName" value="File '[PFMTipsScheduler_test] - ...\PFMTipsScheduler\src\test\java\specs\schedulers\Schedulers.java'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[PFMTipsScheduler_test] - ...\PFMTipsScheduler\src\test\java\specs\schedulers\Schedulers.java'" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,10 +15,10 @@
       <mask>*.sql</mask>
       <mask>*.sqll</mask>
       <mask>*.gradle</mask>
-      <mask>*.java</mask>
       <mask>*.md</mask>
       <mask>*.xml</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
