@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="File '[PFMTipsScheduler_test] - ...\PFMTipsScheduler\src\test\java\specs\schedulers\Schedulers.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[PFMTipsScheduler_test] - ...\PFMTipsScheduler\src\test\java\specs\schedulers\Schedulers.java'" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.md" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,9 +18,9 @@
       <mask>*.sqll</mask>
       <mask>*.xml</mask>
       <mask>*.gradle</mask>
-      <mask>*.md</mask>
       <mask>*.java</mask>
       <mask>*.*</mask>
+      <mask>*.md</mask>
     </recentFileMasks>
   </component>
 </application>
